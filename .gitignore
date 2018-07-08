@@ -1,3 +1,10 @@
+# Misc
+.idea
+.DS_Store
+*.pyc
+media-files
+static-files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
